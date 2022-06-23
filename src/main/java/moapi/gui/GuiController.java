@@ -10,7 +10,7 @@ import moapi.ModOption;
 import moapi.ModTextOption;
 
 /**
- * Gui controller for a single mod and all of it's suboption menus.
+ * Gui controller for a single mod and all of it's sub-option menus.
  * Moved from GuiController to Controller.
  *
  * @author	Clinton Alexander

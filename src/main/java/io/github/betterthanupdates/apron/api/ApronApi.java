@@ -16,6 +16,9 @@ import io.github.betterthanupdates.apron.Apron;
 import io.github.betterthanupdates.apron.impl.client.ApronClientImpl;
 import io.github.betterthanupdates.apron.impl.server.ApronServerImpl;
 
+/**
+ * @since 1.7.3+build.1
+ */
 public interface ApronApi extends ModInitializer {
 	@NotNull
 	static ApronApi getInstance() {
